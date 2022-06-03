@@ -3,8 +3,8 @@
 ## Background Information
 
 <table><tr>
-<td> <img src="../images/avatar.png" alt="Drawing" style="width: 200px;"/> </td>
-<td> <img src="../images/mars-needs-mom.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="./images/avatar.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="./images/mars-needs-mom.png" alt="Drawing" style="width: 200px;"/> </td>
 </tr></table>
 
 In the past years, there were many movies that were known to be a theatrical success, such as "Avatar" which was released in 2009 which smashed several box office records at that time. Avatar was reported to have grossed 2.85 billion USD, according to Rotten Tomatoes. [(source)](https://editorial.rottentomatoes.com/article/highest-grossing-movies-all-time/)
